@@ -21,7 +21,7 @@ const transactions = ref([
   {
     id: 1,
     text: "Flower",
-    amount: -20,
+    amount: -0,
   },
   {
     id: 2,
